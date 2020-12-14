@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692994562646",
+    "firebase_url": "https://travelblog-ff77c-default-rtdb.firebaseio.com",
+    "project_id": "travelblog-ff77c",
+    "storage_bucket": "travelblog-ff77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692994562646:android:dc808e2aa74e65ce3b79f7",
+        "android_client_info": {
+          "package_name": "com.vit.travelblogz.travelblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692994562646-0pfgnom2dd2t1t2ajgia904n0tim1o3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1SrmEapPLHHbXmkrhUYGSSyaO9B-OEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692994562646-0pfgnom2dd2t1t2ajgia904n0tim1o3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
